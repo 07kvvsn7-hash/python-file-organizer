@@ -6,7 +6,7 @@ Python File Organizer
 
 Tech Stack
 * **Language:** Python 3.x
-* **Built-in Modules:** `os`, `shutil` (ไม่ต้องลงแพ็กเกจเสริมเพิ่ม รันได้ทันที!)
+* **Built-in Modules:** `os`, `shutil` (ไม่ต้องลงแพ็กเกจเสริมเพิ่ม รันได้เลย)
 
 ---
 
